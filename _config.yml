@@ -3,7 +3,7 @@ title: yolikos
 SEOTitle: yolikos的博客 | 
 header-img: img/home-bg.jpg
 email: 384753409@qq.com
-description: "分享一下 接下来自己所做的游戏"
+description: "分享一下 我的前端学习历程"
 keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://yolikos.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -67,7 +67,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "高锦河 <br> lua/untiy初学者."
+sidebar-about-description: "高佳文 <br> 前端学习者."
 sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -91,10 +91,10 @@ page-mathjax: false
 
 # Friends
 friends: [
-    # {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
+    {
+        title: "Kakoy97",
+        href: "http://Kakoy97.GitHub.io/"
+    }
     #     title: "乱序（Midare）",
     #     href: "http://mida.re/"
     # },{
